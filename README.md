@@ -1,1 +1,1 @@
-# Java Remaster Udemy Course
+# Java Remaster Udemy Course Challenges
